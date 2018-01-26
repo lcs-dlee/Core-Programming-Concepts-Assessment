@@ -24,7 +24,16 @@
  
  */
 // Answer question 2 below
-
+let bookName = "The Fault in Our Stars"
+print("The book name should be constant because after publishing the book, the book name remains always same.")
+var copiesSold = 100_000_000
+print("The copies sold changes every time whenever the potential readers buy so the data type should be variable.")
+let authorName = "John Green"
+print("The author of the book never changes so the data type should be constant.")
+var sellingPrice = 13
+print("The author can change the suggested selling price whenever he/she wants so the selling price is variable.")
+let yearPublished = 2013
+print("When the book published, is is published. The year published never changes. Hence, the data type should be constant.")
 /*:
  ## Now share your understanding
  
