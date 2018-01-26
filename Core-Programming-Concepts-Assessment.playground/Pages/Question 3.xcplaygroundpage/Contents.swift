@@ -23,7 +23,13 @@
  
  */
 // Answer question 3 below
-
+var spendingMoney = 0.0 // Must be a double because you can earn part of the money
+spendingMoney += 50
+spendingMoney /= 3
+spendingMoney += 10
+spendingMoney -= 10
+spendingMoney -= 5.50
+spendingMoney *= 2
 /*:
  ## Now share your understanding
  
