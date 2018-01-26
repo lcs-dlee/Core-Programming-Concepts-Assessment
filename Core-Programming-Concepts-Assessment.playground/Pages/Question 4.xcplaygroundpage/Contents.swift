@@ -23,7 +23,14 @@
  
  */
 // Answer question 4 below
-
+var numberOfDifferentApps = 3
+print("The number of difference apps must be integer because counting should be integer such as one, two, three, four, etc.")
+var totalNumberOfHours = 4.5
+print("The total number of hours can be part of hours if it is minutes or seconds, so the data type should be double.")
+let mostPopularApp = "Instagram"
+print("The most popular app should be in strings because the name of the app would be consist of words and numbers")
+let theCurrentDate = "January 26th, 2018"
+print("The current date should be in strings, too, because the current date is consist of words and numbers.")
 /*:
  ## Now share your understanding
  
